@@ -3,7 +3,7 @@
 **Give your ChatGPT/Codex subscription the context window you actually pay for — and generate
 images through it, with no OpenAI API key.**
 
-[![CI](https://github.com/kyssta-exe/hermes-codex-truly/actions/workflows/ci.yml/badge.svg)](https://github.com/kyssta-exe/hermes-codex-truly/actions/workflows/ci.yml)
+[![CI](https://github.com/okyssta/hermes-codex-truly/actions/workflows/ci.yml/badge.svg)](https://github.com/okyssta/hermes-codex-truly/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Hermes](https://img.shields.io/badge/hermes-%E2%89%A50.21.5-black)](https://hermes-agent.nousresearch.com)
 
@@ -84,7 +84,7 @@ this route is guessing.
 ## Install
 
 ```bash
-hermes plugins install kyssta-exe/hermes-codex-truly
+hermes plugins install okyssta/hermes-codex-truly
 hermes plugins enable codex-truly
 ```
 

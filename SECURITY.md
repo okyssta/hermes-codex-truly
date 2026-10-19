@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Open a private [security advisory](https://github.com/kyssta-exe/hermes-codex-truly/security/advisories/new)
+Open a private [security advisory](https://github.com/okyssta/hermes-codex-truly/security/advisories/new)
 rather than a public issue, or email the maintainer listed in `plugin.yaml`.
 
 Please include the Hermes version (`hermes --version`), the plugin version

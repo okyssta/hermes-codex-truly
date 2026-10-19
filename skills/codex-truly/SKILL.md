@@ -6,7 +6,7 @@ license: MIT
 metadata:
   hermes:
     tags: [codex, openai, oauth, context-window, image-generation, subscription]
-    homepage: https://github.com/kyssta-exe/hermes-codex-truly
+    homepage: https://github.com/okyssta/hermes-codex-truly
 ---
 
 # Codex Truly — the window you actually pay for
